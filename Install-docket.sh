@@ -1,4 +1,4 @@
-# Shell script to install docker on Ubuntu 22.04
+# Shell script to install docker on Ubuntu 24.04
 #!/bin/bash
 sudo apt-get update
 sudo apt-get install -y apt-transport-https ca-certificates curl software-properties-common gnupg lsb-release
